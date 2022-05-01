@@ -1,1 +1,1 @@
-# HtTI-assigment-one
+# HtTI Assignment One
